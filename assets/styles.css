@@ -46,6 +46,10 @@ body {
   cursor: not-allowed;
 }
 
+.color {
+  cursor: pointer;
+}
+
 h1 {
   font-size: 50px;
 }
